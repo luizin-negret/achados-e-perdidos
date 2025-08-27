@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(255, 246, 205);
+}
+
+h1 {
+    color: blue;
+}
+
+a:hover,
+a:active {
+    color: red;
+}
+
+#azul1 {
+    color: blue;
+    list-style-type: lower-latin;
+}
+
+#vermelho1 {
+    color: red;
+    list-style-type: upper-roman
+}
+
+#azul2 {
+    color: blue;
+    list-style-type: disc;
+}
+
+#vermelho2 {
+    color: red;
+    list-style-type: square;
+}
+
+h2 {
+    color: red;
+}
+
+dt {
+    color: red;
+
+}
+
+dd {
+    color: blue;
+    font-variant: small-caps;
+
+}
+
+dd::first-letter {
+    font-size: xx-large;
+}
+
+#botão:link,
+#botão:visited {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px 7px;
+    text-align: center;
+    border-radius: 100px;
+    text-decoration: none;
+
+    
+    
+}
+
+#botão:hover,
+#botão:active {
+    background-color:rgb(135, 192, 49);
+    
+}
+
+    h1{
+    color: blue;
+}
+    th{
+        color: red;
+        
+ }
+ table {
+    border-color: blue;
+    background-color: white;
+ }
+#l11 {
+    background-image: url(midia1/fundo.jpg);
+}
+#l12 {
+    background-image: url(midia2/fundo2.jpg);
+}
+
+
+
+
